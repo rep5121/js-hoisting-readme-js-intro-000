@@ -1,3 +1,4 @@
+
 function callMe() {
   console.log("I just met you...");
   console.log("and this is crazy..");
@@ -10,6 +11,9 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
+  console.log('hey!!!' to the console from the nested function");
+  }
+
   thisIsCrazy();
 
   var thisIsCrazy = function (){
