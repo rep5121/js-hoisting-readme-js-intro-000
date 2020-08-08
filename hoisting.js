@@ -14,7 +14,7 @@ function callMe() {
 
 function crazy() {
   // fix the code in here:
-  console.log('hey!!!' to the console from the nested function");
+  console.log('hey!!!');
   }
 
   thisIsCrazy();
